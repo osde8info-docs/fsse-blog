@@ -1,8 +1,8 @@
-OSDE blog
+# FSSE BLOG
 
 - [osde.wordpress.com](https://osde8info.wordpress.com)
 
-Other blogs
+# Other blogs
 
 - [aiml.wordpress.com](https://aidlml.wordpress.com)
 - [edutain.wordpress.com](https://edutain8.wordpress.com)
